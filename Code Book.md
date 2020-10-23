@@ -34,4 +34,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The variable calculated for this project is standar deviation and mean only for each measurement. This data is collected from two datasets, the train data and the test data, and merge it into a single data set.
 
 # Tidy Data
-Independent tidy data set with the average of each variable for each activity and each subject was created after labeling the new data set with variable names.
+tidy_dataset.txt is the independent tidy data set with the average of each variable for each activity. Each subject of this new data set was created after labeling the new data set with variable names.
