@@ -1,6 +1,5 @@
-# Project Introduction
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
-The goal is to prepare tidy data that can be used for later analysis. 
+# Introduction
+This code book describes the data used in this project as well as the processing.
 
 # Data Source
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
@@ -32,7 +31,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
     dataSet : bind of X_train and X_test
 
-The variable calculated for this project is standar deviation and mean only. This data is collected from the merging of two datasets, the trian data and the test data.
+The variable calculated for this project is standar deviation and mean only for each measurement. This data is collected from two datasets, the train data and the test data, and merge it into a single data set.
 
 # Tidy Data
-Independent tidy data set with the average of each variable for each activity and each subject was created after label the new data set with variable names.
+Independent tidy data set with the average of each variable for each activity and each subject was created after labeling the new data set with variable names.
